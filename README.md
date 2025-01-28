@@ -49,10 +49,77 @@ Its a game of a flying carrier
 ![Stats](https://github-readme-stats.vercel.app/api?username=Luquistroll209&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 498.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 17 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                22 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌆 Daytime                21 commits          ████████░░░░░░░░░░░░░░░░░   31.82 % 
+🌃 Evening                19 commits          ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌙 Night                  4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  17 commits          ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Friday                   17 commits          ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+Saturday                 12 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Sunday                   14 commits          █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in GDScript** 
+
+```text
+GDScript                 2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C#                       1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
 
 
 
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
 
 
+ Last Updated on 28/01/2025 11:50:52 UTC
 <!--END_SECTION:waka-->
 
