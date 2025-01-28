@@ -50,7 +50,7 @@ Its a game of a flying carrier
 
 <!--START_SECTION:waka-->
 
-![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
+
 
 
 
