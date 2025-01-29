@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Readme Customizado
 
 on:
   schedule:
@@ -8,20 +8,33 @@ on:
 
 jobs:
   update-readme:
-    name: Actualizar Readme con Métricas
+    name: Actualizar Readme con Estadísticas Personalizadas
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROFILE_VIEWS: false
-          SHOW_LINES_OF_CODE: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_LANGUAGE: true
-          SHOW_TIMEZONE: true
-          SHOW_EDITORS: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_UPDATED_DATE: true
+          # Personalización de las métricas
+          SHOW_TITLE: true                      # Añadir título
+          SECTION_NAME: waka-stats             # Nombre de la sección
+          BLOCKS: '░▒▓█'                      # Estilo de bloques de la gráfica
+          CODE_LANG: python                    # Sintaxis resaltada para Python
+          TIME_RANGE: last_30_days             # Estadísticas de los últimos 30 días
+          LANG_COUNT: 5                        # Mostrar 5 lenguajes
+          SHOW_TIME: true                      # Mostrar tiempo dedicado a cada lenguaje
+          SHOW_TOTAL: true                     # Mostrar tiempo total de programación
+          SHOW_MASKED_TIME: true               # Incluir tiempos no clasificados
+          STOP_AT_OTHER: false                 # Continuar hasta el final (sin detener en 'Other')
+          IGNORED_LANGUAGES: YAML, TOML        # Ignorar ciertos lenguajes
+
+          # Personalización del commit
+          COMMIT_MESSAGE: "Actualización de estadísticas Waka-Readme con métricas nuevas"
+          TARGET_BRANCH: main                  # Branch de destino para el commit
+          TARGET_PATH: /README.md              # Path del archivo README.md en tu repo
+          COMMITTER_NAME: "GitHub Actions"     # Nombre del committer
+          COMMITTER_EMAIL: "actions@github.com" # Email del committer
+          AUTHOR_NAME: "GitHub Actions"        # Nombre del autor
+          AUTHOR_EMAIL: "actions@github.com"   # Email del autor
