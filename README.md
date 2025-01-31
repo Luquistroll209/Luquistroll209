@@ -49,20 +49,68 @@ Its a game of a flying carrier
 ![Stats](https://github-readme-stats.vercel.app/api?username=Luquistroll209&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2029%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 503.4 kB Used in GitHub's Storage 
+> 📦 584.6 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
+> 🏆 29 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                24 commits          ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌆 Daytime                32 commits          ██████████░░░░░░░░░░░░░░░   40.51 % 
+🌃 Evening                19 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  19 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Wednesday                7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Friday                   18 commits          ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Saturday                 12 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Sunday                   14 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Other                    5 hrs 29 mins       █████████████████████████   99.98 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+GodotEngine              5 hrs 4 mins        ███████████████████████░░   92.26 % 
+ArduinoIDE               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+WindowsTerminal          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Kritadigitalpaintingappli5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+RobloxStudio             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+
+🐱‍💻 Projects: 
+Unknown Project          5 hrs 29 mins       █████████████████████████   99.98 % 
+Luquis                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in GDScript** 
 
 ```text
@@ -80,6 +128,6 @@ JavaScript               1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
 
 
- Last Updated on 29/01/2025 00:52:08 UTC
+ Last Updated on 31/01/2025 07:46:44 UTC
 <!--END_SECTION:waka-->
 
