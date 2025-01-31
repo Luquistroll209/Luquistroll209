@@ -1,39 +1,25 @@
-name: Waka Readme Ultra Customizado
+name: Waka Readme
 
 on:
   schedule:
-    # Ejecuta a las 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
-    name: Actualizar Readme con Estadísticas Ultra Personalizadas
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          
-
-          SHOW_TITLE: true                     
-          SECTION_NAME: waka-stats            
-          BLOCKS: '⢀⡀⢄⣠⡤⢤⡀⢀⠈⠱⡀'  
-          CODE_LANG: python, ruby, javascript   
-          TIME_RANGE: all_time                  
-          LANG_COUNT: 7                        
-          SHOW_TIME: true                   
-          SHOW_TOTAL: true               
-          SHOW_MASKED_TIME: true              
-          STOP_AT_OTHER: false          
-          IGNORED_LANGUAGES: YAML, TOML, JSON    
-
-          # Más métricas a mostrar
-          SHOW_PROJECTS: true           
-          SHOW_OS: true                  
-          SHOW_EDITORS: true               
-          SHOW_TIMEZONE: true               
-          SHOW_PROFILE_VIEWS: true           
+          SHOW_PROFILE_VIEWS: false
+          SHOW_LINES_OF_CODE: TRUE
+          SHOW_OS: TRUE
+          SHOW_PROJECTS: TRUE
+          SHOW_LANGUAGE: TRUE
+          SHOW_TIMEZONE: TRUE
+          SHOW_EDITORS: TRUE
+          SHOW_TOTAL_CODE_TIME: TRUE
+          SHOW_UPDATED_DATE: TRUE
