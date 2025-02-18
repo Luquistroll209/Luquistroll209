@@ -2,8 +2,6 @@
 
 Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with experience in a wide range of tools and technologies. I don’t have a preferred programming language, as I enjoy working with various technologies depending on the project. Currently, I’m focusing on three big projects. I currently don’t have any open-source projects, as they are still in development.
 
-![](https://komarev.com/ghpvc/?username=Luquistroll2095&color=blueviolet)
-
 ---
 ## 🚀 Programming Languages
 
