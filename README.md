@@ -55,6 +55,8 @@ Its a game of a flying carrier
 
 > 📦 630.3 kB Used in GitHub's Storage 
  > 
+> 🏆 86 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -122,6 +124,6 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:45:52 UTC
+ Last Updated on 11/03/2025 18:47:32 UTC
 <!--END_SECTION:waka-->
 
