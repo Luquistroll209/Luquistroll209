@@ -47,15 +47,13 @@ Its a game of a flying carrier
 ![Stats](https://github-readme-stats.vercel.app/api?username=Luquistroll209&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 630.3 kB Used in GitHub's Storage 
- > 
-> 🏆 87 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -121,6 +119,6 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2025 18:46:09 UTC
+ Last Updated on 15/03/2025 18:43:55 UTC
 <!--END_SECTION:waka-->
 
