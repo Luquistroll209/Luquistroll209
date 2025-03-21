@@ -47,13 +47,15 @@ Its a game of a flying carrier
 ![Stats](https://github-readme-stats.vercel.app/api?username=Luquistroll209&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 805.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 96 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -88,22 +90,20 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-HTML                     2 hrs 29 mins       █████████████░░░░░░░░░░░░   52.30 % 
-Batchfile                1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   28.58 % 
-Python                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+HTML                     2 hrs 29 mins       ████████████████░░░░░░░░░   64.48 % 
+Batchfile                1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 51 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-GodotPresentation        2 hrs 29 mins       █████████████░░░░░░░░░░░░   52.31 % 
-EscapeRoom               1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-Luquis                   53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+GodotPresentation        2 hrs 29 mins       ████████████████░░░░░░░░░   64.49 % 
+EscapeRoom               1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   35.51 % 
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,6 +123,6 @@ C#                       1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2025 18:45:48 UTC
+ Last Updated on 21/03/2025 18:46:49 UTC
 <!--END_SECTION:waka-->
 
