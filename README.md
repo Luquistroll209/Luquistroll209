@@ -51,7 +51,6 @@ Its a game of a flying carrier
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of Code chart](https://raw.githubusercontent.com/Luquistroll209/Luquistroll209/main/assets/bar_graph.png)
 
 
  Last Updated on 22/03/2025 18:43:30 UTC
