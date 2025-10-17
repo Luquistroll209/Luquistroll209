@@ -17,6 +17,7 @@ Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with 
 ## 🛠️ Technologies & Tools
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-square&logo=godotengine&logoColor=white)
+![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-square&logo=visualstudiocode&logoColor=white)
 ![VS Community](https://img.shields.io/badge/VS%20Community-5C2D91?style=for-the-square&logo=visualstudio&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-square&logo=arduino&logoColor=white)
