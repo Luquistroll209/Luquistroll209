@@ -33,14 +33,20 @@ Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with 
 ---
 ## Projects
 
-### 🎮 Made in Abyss-inspired Game
+### 🎮 Made in Abyss-inspired Game [abandoned]
 A game based on Made in Abyss, developed in Godot Engine with multiplayer.
 
-### Pato
+### Pato [abandoned]
 Pato is a robot powered with AI
 
-### 🎮 Innovation Inc. Flying Aircraft Carrier
+### 🎮 Innovation Inc. Flying Aircraft Carrier [abandoned]
 Its a game of a flying carrier 
+
+### Learn.py
+Its a plataform similar to clashroom
+
+### Web Ultrakill SpeedRun [Unnamed]
+Its a web to Hispanic ultrakill speedrun community
 
 ---
 ## Stats
