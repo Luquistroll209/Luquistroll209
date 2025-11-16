@@ -54,7 +54,7 @@ Its a web to Hispanic ultrakill speedrun community
 ![Stats](https://github-readme-stats.vercel.app/api?username=Luquistroll209&show_icons=true&theme=radical)
 
 <!--START_SECTION:waka-->
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D31547)](https://codetime.dev)
+[![wakatime](https://wakatime.com/badge/user/a7bf4c7f-4252-45e8-9889-75f88d69bce3.svg)](https://wakatime.com/@a7bf4c7f-4252-45e8-9889-75f88d69bce3)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
