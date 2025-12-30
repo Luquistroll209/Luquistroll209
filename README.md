@@ -3,7 +3,7 @@
 Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with experience in a wide range of tools and technologies. I don’t have a preferred programming language, as I enjoy working with various technologies depending on the project. Currently, I’m focusing on three big projects. I currently don’t have any open-source projects, as they are still in development.
 
 ---
-## 🚀 Programming Languages
+## Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-square&logo=java&logoColor=white)
@@ -14,7 +14,7 @@ Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-square&logo=csharp&logoColor=white)
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-square&logo=godotengine&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-darkgreen?logo=django)
@@ -33,13 +33,13 @@ Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with 
 ---
 ## Projects
 
-### 🎮 Made in Abyss-inspired Game [abandoned]
+### Made in Abyss-inspired Game [abandoned]
 A game based on Made in Abyss, developed in Godot Engine with multiplayer.
 
 ### Pato [abandoned]
 Pato is a robot powered with AI
 
-### 🎮 Innovation Inc. Flying Aircraft Carrier [abandoned]
+### Innovation Inc. Flying Aircraft Carrier [abandoned]
 Its a game of a flying carrier 
 
 ### Learn.py
