@@ -8,7 +8,6 @@ Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with 
 ## Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-square&logo=java&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-square&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-square&logo=c&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-square&logo=godotengine&logoColor=white)
@@ -35,6 +34,9 @@ Hello! I'm LT209, also known as Luquistroll209. I'm a Full Stack Developer with 
 ---
 ## Projects
 
+### Learn.py
+Its a plataform similar to clashroom
+
 ### Made in Abyss-inspired Game [abandoned]
 A game based on Made in Abyss, developed in Godot Engine with multiplayer.
 
@@ -43,12 +45,6 @@ Pato is a robot powered with AI
 
 ### Innovation Inc. Flying Aircraft Carrier [abandoned]
 Its a game of a flying carrier 
-
-### Learn.py
-Its a plataform similar to clashroom
-
-### Web Ultrakill SpeedRun [Unnamed]
-Its a web to Hispanic ultrakill speedrun community
 
 ---
 ## Stats
